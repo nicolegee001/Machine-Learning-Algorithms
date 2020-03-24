@@ -6,7 +6,8 @@ This repository is a collection of jupyter notebooks exploring the various super
 - Polynomial
 - Ridge 
 - Lasso
+- KNN
 
 ## Classification
 - Logistic
-- KNN (Also Regression)
+- KNN
