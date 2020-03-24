@@ -9,4 +9,4 @@ This repository is a collection of jupyter notebooks exploring the various super
 
 ## Classification
 - Logistic
-- KNN 
+- KNN (Also Regression)
