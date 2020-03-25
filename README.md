@@ -11,3 +11,5 @@ This repository is a collection of jupyter notebooks exploring the various super
 ## Classification
 - Logistic
 - KNN
+
+[Completed under guidance from the Master's program in Business Analytics at SF State] 
