@@ -1,15 +1,17 @@
-# Supervised-ML
-This repository is a collection of jupyter notebooks exploring the various supervised machine learning algorithms below. Cheers!
+# Machine Learning Algorithms
+This repository is a collection of jupyter notebooks exploring the various machine learning algorithms below. Cheers!
 
-## Regression 
+## Supervised 
+### Regression 
 - Linear 
 - Polynomial
 - Ridge 
 - Lasso
 - KNN
 
-## Classification
+### Classification
 - Logistic
 - KNN
 
-[Completed under guidance from the Master's program in Business Analytics at SF State] 
+
+[Completed during Master's in Business Analytics program @ SF State] 
